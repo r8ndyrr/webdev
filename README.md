@@ -1,2 +1,2 @@
 # webdev
-My Web Development 
+Sample Web Development Projects!
